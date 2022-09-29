@@ -1,7 +1,7 @@
-baseURL: "https://soab1.github.io/profile/"
+baseURL: "https://soab1.github.io/profile.me/"
 canonifyurls: false
 publishDir: "docs"
-title: Okaponta
+title: Masaya
 paginate: 5
 theme: PaperMod
 
