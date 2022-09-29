@@ -1,6 +1,6 @@
 baseURL: "https://soab1.github.io/profile.me/"
 canonifyurls: false
-publishDir: "docs"
+publishDir: "content"
 title: Masaya
 paginate: 5
 theme: PaperMod
@@ -80,7 +80,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/SoaB1/profile/content"
+    URL: "https://github.com/SoaB1/profile.me/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
