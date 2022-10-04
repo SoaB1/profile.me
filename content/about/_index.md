@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2022-10-01T15:43:17+09:00
-draft: true
+date: 2022-10-05T01:02:08+09:00
+draft: false
 ---
 
 ## Careers
